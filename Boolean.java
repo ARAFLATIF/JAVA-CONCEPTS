@@ -1,6 +1,6 @@
 public class BooleanExample {
     public static void main(String[] args) {
-        // Declaring boolean variables
+        // Declarin g boolean variables
         boolean isJavaFun = true;
         boolean isCodingHard = false;
 
