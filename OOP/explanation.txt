@@ -1,0 +1,12 @@
+Explanation
+Inheritance:
+The AudioBook and Ebook classes extend the abstract Book class, inheriting its properties and methods.
+Each concrete class overrides the displayDetails method to provide specific details about the book type.
+Abstraction:
+The Book class is an abstract class that provides a common interface for all types of books.
+The displayDetails method is declared abstract, forcing concrete subclasses to implement it.
+Polymorphism:
+The User class uses a list and map of Book objects, allowing it to store and retrieve different types of books polymorphically.
+HashMap and ArrayList:
+The User class uses a HashMap to store books by title for efficient retrieval and an ArrayList to maintain a list of all books.
+This program demonstrates OOP principles such as inheritance, abstraction, and polymorphism while utilizing collections like ArrayList and HashMap.
