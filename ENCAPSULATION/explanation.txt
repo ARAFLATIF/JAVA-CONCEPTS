@@ -1,0 +1,14 @@
+Explanation
+Encapsulation:
+The BankAccount class encapsulates the data members accountNumber, accountHolderName, and balance by declaring them as private.
+Public getter and setter methods are provided to access and modify these private fields in a controlled manner.
+Getter and Setter Methods:
+The getter methods (getAccountNumber, getAccountHolderName, getBalance) allow you to retrieve the values of the private fields.
+The setter methods (setAccountNumber, setAccountHolderName, setBalance) allow you to modify the values of the private fields, with additional validation in the case of setBalance.
+Deposit and Withdraw Methods:
+These methods demonstrate how you can perform operations on the encapsulated data while maintaining data integrity. 
+For example, you cannot deposit or withdraw a negative amount, and you cannot withdraw more than the available balance.
+Display Details Method:
+This method is used to display the current state of the account, showcasing how encapsulated data can be accessed through public methods.
+This example illustrates how encapsulation helps in hiding the internal implementation details of an object and 
+exposing only necessary information through public methods, ensuring data integrity and security.
