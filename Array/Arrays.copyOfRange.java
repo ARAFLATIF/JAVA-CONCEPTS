@@ -7,7 +7,7 @@ public class CopyOfRangeExample {
         // Initialize the original array
         int[] originalArray = {12, 13, 14, 15, 16, 17, 18};
 
-        // Print the original array
+        // Print the origin al array
         System.out.println("Original Array: " + Arrays.toString(originalArray));
 
         // Define the range to be copied (from index 2 to 6, exclusive)
