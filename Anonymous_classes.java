@@ -3,7 +3,7 @@ Anonymous classes in Java are a powerful feature that allows you to declare and 
   often to implement an interface or extend a class in a concise manner. Here’s a detailed explanation of anonymous classes, including their syntax, use cases, and examples.
 What is an Anonymous Class?
 An anonymous class is an inner class that does not have a name. 
-  It is defined inside another class and is used to create objects that implement interfaces or extend classes without declaring a separate named class.
+  It is defined inside another class and is used to creat e objects that implement interfaces or extend classes without declaring a separate named class.
 
 
   Syntax of Anonymous Classes
