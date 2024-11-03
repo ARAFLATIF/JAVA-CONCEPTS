@@ -1,4 +1,4 @@
-// Basic Initialization
+// Basic Init ialization
 // You can initialize an ArrayList using the default constructor and then add elements using the add method.
 
 import java.util.ArrayList;
