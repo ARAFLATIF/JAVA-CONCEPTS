@@ -1,5 +1,5 @@
 // Example 1: Copying an Array with the Same Length
-// This example demonstrates how to create a copy of an array with the same length as the original array.
+// This example demonstra tes how to create a copy of an array with the same length as the original array.
 
 import java.util.Arrays;
 
